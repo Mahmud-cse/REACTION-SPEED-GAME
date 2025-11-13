@@ -4,7 +4,7 @@
 
 A simple two-player reaction-speed game built with Arduino. LEDs act as a countdown, and players race to press their button first after the red light turns off.
 
-How the Game Works
+# How the Game Works #
 
 Countdown
 
@@ -36,7 +36,7 @@ Long buzzer beep.
 
 LEDs reset and a new round begins.
 
-Pin Connections
+# Pin Connections #
 Component	Pin
 Player LED 1 (yellowLED1)	12
 Player LED 2 (yellowLED2)	8
@@ -46,13 +46,10 @@ Red LED	9
 Buzzer	7
 Button 1	13 (INPUT_PULLUP)
 Button 2	5 (INPUT_PULLUP)
-Features
 
+# Features #
 Random reaction start time
-
 Two-player competitive gameplay
-
 Winner indicated visually
-
 Simple LED + buzzer interface
 
