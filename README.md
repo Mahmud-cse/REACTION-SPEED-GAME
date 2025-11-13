@@ -1,6 +1,6 @@
 ![Reaction Speed Game](reactionspeedgamecd.png)
 
-Reaction Speed Game – Arduino
+## Reaction Speed Game – Arduino ##
 
 A simple two-player reaction-speed game built with Arduino. LEDs act as a countdown, and players race to press their button first after the red light turns off.
 
